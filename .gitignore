@@ -1,0 +1,26 @@
+# Maven
+*.class
+*.jar
+*.war
+*.ear
+*.xml
+*.iml
+target/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.log
+*.aux
+*.class
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# OS generated files
+Thumbs.db
+.DS_Store
